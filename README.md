@@ -1,4 +1,4 @@
-# sales_performance_dashboard_tableau
+# sales-performance-dashboard-tableau
 An interactive sales dashboard analyzing 10,000+ transactions from the 
 Tableau Superstore dataset across regions, product categories, and 
 sub-categories.
