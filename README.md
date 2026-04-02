@@ -35,8 +35,3 @@ analyze the same dataset and surface the same core business insights.
 - Copiers are the most profitable sub-category at $56K
 - Overall profit margin is 12.56% across all categories
 - Revenue shows consistent year-over-year growth from 2023–2026
-
-## Files
-- `Sales_Performance_Dashboard.xlsx` — Excel dashboard
-- `Sales_Data_Dashboard_Excel_Project.PNG` — Excel screenshot
-- `README.md` — Project documentation
